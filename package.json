@@ -37,8 +37,8 @@
    "react-dom": "^15.1.0"
  },
  "peerDependencies": {
-   "react": "^0.14.3",
-   "react-dom": "^0.14.3"
+   "react": ">= ^0.14.3",
+   "react-dom": ">= ^0.14.3"
  },
  "repository": {
     "type": "git",
