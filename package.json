@@ -3,9 +3,6 @@
   "version": "0.1.0",
   "description": "Simple Infinite scroll component to use with meteor",
   "main": "build/index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [
     "infinite",
     "scroll",
@@ -43,6 +40,14 @@
    "react": "^0.14.3",
    "react-dom": "^0.14.3"
  },
+ "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohithg/react-infinite-scroll-meteor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mohithg/react-infinite-scroll-meteor.git/issues"
+  },
+  "homepage": "https://github.com/mohithg/react-infinite-scroll-meteor.git#readme",
   "author": "Mohith G",
   "license": "MIT"
 }
