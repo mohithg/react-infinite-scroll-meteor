@@ -1,4 +1,4 @@
-# react-infinite-scroll-meteor[![Build Status](https://travis-ci.org/mohithg/react-infinite-scroll-meteor.svg?branch=master)](https://travis-ci.org/mohithg/react-infinite-scroll-meteor)
+# react-infinite-scroll-meteor  [![Build Status](https://travis-ci.org/mohithg/react-infinite-scroll-meteor.svg?branch=master)](https://travis-ci.org/mohithg/react-infinite-scroll-meteor) [![npm version](https://badge.fury.io/js/react-infinite-scroll-meteor.svg)](https://badge.fury.io/js/react-infinite-scroll-meteor)
 
 
 ## Installation
