@@ -1,6 +1,6 @@
 {
   "name": "react-infinite-scroll-meteor",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Simple Infinite scroll component to use with meteor",
   "main": "build/index.js",
   "keywords": [
