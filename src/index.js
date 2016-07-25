@@ -50,8 +50,9 @@ class InfiniteScroll extends React.Component {
                         (document.documentElement ||
                          document.body.parentNode ||
                          document.body).scrollTop;
-      const targetScroll = this.topPosition(el) + el.offsetHeight + scrollTop - window.innerHeight;
-      if (targetScroll > Number(this.props.endPadding)) {
+      const targetScroll = this.topPosition(el) - window.innerHeight;
+      const scrollHeight = el.scrollHeight;
+      if ((scrollHeight - scrollTop) + targetScroll < Number(this.props.endPadding)) {
         this.props.loadMore(true); // Tell parent to do subscription
       }
     }
